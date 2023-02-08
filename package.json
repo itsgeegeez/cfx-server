@@ -9,7 +9,8 @@
     "serverVersion": 6248
   },
   "scripts": {
-    "download": "ts-node ./artifacts/download.ts"
+    "download": "ts-node ./artifacts/download.ts",
+    "start": "./artifacts/6248/FXServer.exe +exec server.cfg"
   },
   "private": true,
   "devDependencies": {
