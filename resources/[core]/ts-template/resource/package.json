@@ -1,0 +1,12 @@
+{
+  "name": "boilerplate-resource",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "node ./scripts/build.prod.js",
+    "watch": "node ./scripts/build.dev.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
