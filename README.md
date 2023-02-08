@@ -1,4 +1,4 @@
-# Plug and Play FiveM/RedM server <img src="https://img.shields.io/github/languages/code-size/itsgeegeez/cfx-server" /> <img src="https://img.shields.io/github/stars/itsgeegeez/cfx-server" /> <img src="https://img.shields.io/github/forks/itsgeegeez/cfx-server"/> <img src="https://img.shields.io/github/issues/itsgeegeez/cfx-server"/>
+# Plug and Play FiveM/RedM server <img src="https://img.shields.io/github/languages/code-size/itsgeegeez/cfx-server?style=plastic" /> <img src="https://img.shields.io/github/stars/itsgeegeez/cfx-server?style=plastic" /> <img src="https://img.shields.io/github/forks/itsgeegeez/cfx-server?style=plastic"/> <img src="https://img.shields.io/github/issues/itsgeegeez/cfx-server?style=plastic"/>
 
 A github repository where you can instantly start a cfx server from fresh with shortcuts. Let us do the hardwork while you focus on your scripts. On top of that, this repo comes with extra features!
 
